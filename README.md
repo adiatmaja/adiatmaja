@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-adiatmaja.github.io
+[adiatmaja.github.io]
