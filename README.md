@@ -20,8 +20,8 @@ portfolio Check out my portfolio and resume at adiatmaja.github.io.
 
 🔗 Connect with Me
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/adiatmaja" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adiatmaja" height="30" width="40" /></a>
-<a href="mailto:adi@pambudi.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adi@pambudi.com" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/adiatmaja" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adiatmaja" height="30" width="40" /></a>
+<a href="mailto:adi@pambudi.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adi@pambudi.com" /></a>
 </p>
 
 💻 Tech Stack & Tools
