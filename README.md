@@ -77,8 +77,8 @@ I specialize in building end-to-end data pipelines, developing predictive models
 </h3>
 <h4 align="center">ASAH - Waste Classification App</h4>
 <div align="center">
-<p><em>Mobile Development • MobileNetV2 • Android</em></p>
-<p>A mobile application for waste sorting that utilizes a highly efficient MobileNetV2 model. Achieved <strong>94% accuracy</strong> and optimized for smooth, real-time inference on Android devices.</p>
+<p><em>Machine Learning • Model Optimization • MobileNetV2</em></p>
+<p>Boosted a waste classification model's accuracy to <strong>94%</strong> by replacing the VGG16 architecture with the more efficient MobileNetV2. This optimization enabled smooth, real-time inference for deployment on mobile devices.</p>
 <br />
 <a href="https://github.com/ASAH-Bangkit-2023/ASAH-Project" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
@@ -91,6 +91,9 @@ I specialize in building end-to-end data pipelines, developing predictive models
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adiatmaja&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Johannes Adiatmaja's GitHub Statistics" width="400" />
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -98,6 +101,9 @@ I specialize in building end-to-end data pipelines, developing predictive models
 </td>
 </tr>
 <tr>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiatmaja&theme=radical&hide_border=true" alt="GitHub Streak Statistics" width="400" />
+</td>
 </tr>
 </table>
 </div>
