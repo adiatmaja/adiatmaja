@@ -16,7 +16,7 @@ I specialize in building end-to-end data pipelines, developing predictive models
 
 🚀 I enjoy turning complex data into actionable insights and building tools that are both efficient and user-friendly.
 
-portfolio Check out my portfolio and resume at adiatmaja.github.io.
+💼 Check out my portfolio and resume at adiatmaja.github.io.
 
 🔗 Connect with Me
 <p align="left">
