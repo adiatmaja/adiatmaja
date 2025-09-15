@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there, I'm Johannes Baptista Adiatmaja Pambudi 👋</h1>
+<h1 align="center">Hi there, I'm Johannes Adiatmaja Pambudi 👋</h1>
 <p align="center">
 A Data Scientist passionate about leveraging machine learning and deep learning to solve real-world problems.
 <br />
@@ -16,7 +16,7 @@ I specialize in building end-to-end data pipelines, developing predictive models
 
 🚀 I enjoy turning complex data into actionable insights and building tools that are both efficient and user-friendly.
 
-Check out my portfolio and resume at [adiatmaja.github.io](https://adiatmaja.github.io/).
+portfolio Check out my portfolio and resume at adiatmaja.github.io.
 
 🔗 Connect with Me
 <p align="left">
