@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there, I'm Johannes Adiatmaja Pambudi 👋</h1>
+<h1 align="center">Hi there, I'm Johannes Baptista Adiatmaja Pambudi 👋</h1>
 <p align="center">
 A Data Scientist passionate about leveraging machine learning and deep learning to solve real-world problems.
 <br />
@@ -91,9 +91,6 @@ I specialize in building end-to-end data pipelines, developing predictive models
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adiatmaja&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Johannes Adiatmaja's GitHub Statistics" width="400" />
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -101,15 +98,11 @@ I specialize in building end-to-end data pipelines, developing predictive models
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiatmaja&theme=radical&hide_border=true" alt="GitHub Streak Statistics" width="400" />
-</td>
 </tr>
 </table>
 </div>
 <hr />
 <div align="center">
-<h3>💡 "Turning data into insights, one algorithm at a time"</h3>
 <p>
 <img src="https://komarev.com/ghpvc/?username=adiatmaja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/adiatmaja?label=Followers&style=social" alt="GitHub Followers" />
